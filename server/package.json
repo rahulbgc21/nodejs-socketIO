@@ -1,0 +1,16 @@
+{
+  "name": "websocket",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "websocket",
+  "main": "index.js",
+  "author": "Rahul Das",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4",
+    "socket.io": "^4.7.5"
+  },
+  "scripts": {
+    "start" : "node index.js"
+  }
+}

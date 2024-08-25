@@ -1,0 +1,11 @@
+{
+  "name": "websocket-client",
+  "version": "1.0.0",
+  "description": "websocket",
+  "type": "module",
+  "main": "app.js",
+  "author": "Rahul Das",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
